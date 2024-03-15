@@ -76,6 +76,7 @@ Add alias section on `.gitconfig` file.
 [alias]
     cb = "rev-parse --abbrev-ref HEAD"
     cm = "commit -am"
+    po = "push origin"
     cfg = "config --global -l"
     st = "status -sb"
     ll = "log --oneline"
